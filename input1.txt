@@ -1,0 +1,1878 @@
+Project Gutenberg's The Science of Human Nature, by William Henry Pyle
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Science of Human Nature
+       A Psychology for Beginners
+
+Author: William Henry Pyle
+
+Release Date: May 31, 2006 [EBook #18477]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE SCIENCE OF HUMAN NATURE ***
+
+
+
+
+Produced by Kevin Handy, Suzanne Lybarger, Laura Wisewell
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+  +--------------------------------------------------------------------+
+  |                                                                    |
+  | Transcriber's Note                                                 |
+  |                                                                    |
+  | Eight printer errors have been corrected, all of them wrong or     |
+  | missing full-stops or commas. Also, in the completion tests which  |
+  | start at line 5972, the words to be omitted, which were italicised |
+  | in the original, have instead been surrounded by curly brackets    |
+  | to aid readability.  In all other cases, italics are denoted by    |
+  | underscores and bold by equals signs.                              |
+  |                                                                    |
+  +--------------------------------------------------------------------+
+
+
+
+
+                       Teacher Training Series
+                              EDITED BY
+                            W. W. CHARTERS
+      _Professor of Education, Carnegie Institute of Technology_
+
+
+
+                            THE SCIENCE OF
+
+                             HUMAN NATURE
+
+
+
+                     _A PSYCHOLOGY FOR BEGINNERS_
+
+
+                                  BY
+
+                          WILLIAM HENRY PYLE
+
+                 PROFESSOR OF EDUCATIONAL PSYCHOLOGY
+
+                        UNIVERSITY OF MISSOURI
+
+
+                      SILVER, BURDETT & COMPANY
+                      BOSTON  NEW YORK  CHICAGO
+
+
+
+                           COPYRIGHT, 1917,
+
+                    BY SILVER, BURDETT & COMPANY.
+
+
+
+
+AUTHOR'S PREFACE
+
+
+This book is written for young students in high schools and normal
+schools. No knowledge can be of more use to a young person than a
+knowledge of himself; no study can be more valuable to him than a study
+of himself. A study of the laws of human behavior,--that is the purpose
+of this book.
+
+What is human nature like? Why do we act as we do? How can we make
+ourselves different? How can we make others different? How can we make
+ourselves more efficient? How can we make our lives more worth while?
+This book is a manual intended to help young people to obtain such
+knowledge of human nature as will enable them to answer these questions.
+
+I have not attempted to write a complete text on psychology. There are
+already many such books, and good ones too. I have selected for
+treatment only such topics as young students can study with interest and
+profit. I have tried to keep in mind all the time the practical worth of
+the matters discussed, and the ability and experience of the intended
+readers.
+
+
+TO THE TEACHER
+
+This book can be only a guide to you. You are to help your students
+study human nature. You must, to some extent, be a psychologist yourself
+before you can teach psychology. You must yourself be a close and
+scientific student of human nature. Develop in the students the spirit
+of inquiry and investigation. Teach them to look to their own minds and
+their neighbor's actions for verification of the statements of the text.
+Let the students solve by observation and experiment the questions and
+problems raised in the text and the exercises. The exercises should
+prove to be the most valuable part of the book. The first two chapters
+are the most difficult but ought to be read before the rest of the book
+is studied. If you think best, merely read these two chapters with the
+pupils, and after the book is finished come back to them for careful
+study.
+
+In the references, I have given parallel readings, for the most part to
+Titchener, Pillsbury, and Münsterberg. I have purposely limited the
+references, partly because a library will not be available to many who
+may use the book, and partly because the young student is likely to be
+confused by much reading from different sources before he has worked out
+some sort of system and a point of view of his own. Only the most
+capable members of a high school class will be able to profit much from
+the references given.
+
+
+TO THE STUDENT
+
+You are beginning the study of human nature. You can not study human
+nature from a book, you must study yourself and your neighbors. This
+book may help you to know what to look for and to understand what you
+find, but it can do little more than this. It is true, this text gives
+you many facts learned by psychologists, but you must verify the
+statements, or at least see their significance to _you_, or they will
+be of no worth to you. However, the facts considered here, properly
+understood and assimilated, ought to prove of great value to you. But
+perhaps of greater value will be the psychological frame of mind or
+attitude which you should acquire. The psychological attitude is that of
+seeking to find and understand the _causes of human action, and the
+causes, consequences, and significance of the processes of the human
+mind_. If your first course in psychology teaches you to look for these
+things, gives you some skill in finding them and in using the knowledge
+after you have it, your study should be quite worth while.
+
+W. H. PYLE.
+
+
+
+
+EDITOR'S PREFACE
+
+
+There are at least two possible approaches to the study of psychology by
+teacher-training students in high schools and by beginning students in
+normal schools.
+
+One of these is through methods of teaching and subject matter. The
+other aims to give the simple, concrete facts of psychology as the
+science of the mind. The former presupposes a close relationship between
+psychology and methods of teaching and assumes that psychology is
+studied chiefly as an aid to teaching. The latter is less complicated.
+The plan contemplates the teaching of the simple fundamentals at first
+and applying them incidentally as the occasion demands. This latter
+point of view is in the main the point of view taken in the text.
+
+The author has taught the material of the text to high school students
+to the end that he might present the fundamental facts of psychology in
+simple form.
+
+W. W. C.
+
+
+
+
+CONTENTS
+
+
+                                                               PAGE
+
+  CHAPTER    I. INTRODUCTION                                      1
+
+  CHAPTER   II. DEVELOPMENT OF THE RACE AND OF THE INDIVIDUAL    18
+
+  CHAPTER  III. MIND AND BODY                                    34
+
+  CHAPTER   IV. INHERITED TENDENCIES                             50
+
+  CHAPTER    V. FEELING AND ATTENTION                            73
+
+  CHAPTER   VI. HABIT                                            87
+
+  CHAPTER  VII. MEMORY                                          124
+
+  CHAPTER VIII. THINKING                                        152
+
+  CHAPTER   IX. INDIVIDUAL DIFFERENCES                          176
+
+  CHAPTER    X. APPLIED PSYCHOLOGY                              210
+
+  GLOSSARY                                                      223
+
+  INDEX                                                         227
+
+
+
+
+THE SCIENCE OF HUMAN NATURE
+
+
+
+
+CHAPTER I
+
+INTRODUCTION
+
+
+=Science.= Before attempting to define psychology, it will be helpful to
+make some inquiry into the nature of science in general. Science is
+knowledge; it is what we know. But mere knowledge is not science. For a
+bit of knowledge to become a part of science, its relation to other bits
+of knowledge must be found. In botany, for example, bits of knowledge
+about plants do not make a science of botany. To have a science of
+botany, we must not only know about leaves, roots, flowers, seeds, etc.,
+but we must know the relations of these parts and of all the parts of a
+plant to one another. In other words, in science, we must not only
+_know_, we must not only have _knowledge_, but we must know the
+significance of the knowledge, must know its _meaning_. This is only
+another way of saying that we must have knowledge and know its relation
+to other knowledge.
+
+A scientist is one who has learned to organize his knowledge. The main
+difference between a scientist and one who is not a scientist is that
+the scientist sees the significance of facts, while the non-scientific
+man sees facts as more or less unrelated things. As one comes to hunt
+for causes and inquire into the significance of things, one becomes a
+scientist. A thing or an event always points beyond itself to something
+else. This something else is what goes before it or comes after it,--is
+its cause or its effect. This causal relationship that exists between
+events enables a scientist to prophesy. By carefully determining what
+always precedes a certain event, a certain type of happening, a
+scientist is able to predict the event. All that is necessary to be able
+to predict an event is to have a clear knowledge of its true causes.
+Whenever, beyond any doubt, these causes are found to be present, the
+scientist knows the event will follow. Of course, all that he really
+_knows_ is that such results have always followed similar causes in the
+past. But he has come to have faith in the uniformity and regularity of
+nature. The chemist does not find sulphur, or oxygen, or any other
+element acting one way one day under a certain set of conditions, and
+acting another way the next day under exactly the same conditions. Nor
+does the physicist find the laws of mechanics holding good one day and
+not the next.
+
+The scientist, therefore, in his thinking brings order out of chaos in
+the world. If we do not know the causes and relations of things and
+events, the world seems a very mixed-up, chaotic place, where anything
+and everything is happening. But as we come to know causes and
+relations, the world turns out to be a very orderly and systematic
+place. It is a lawful world; it is not a world of chance. Everything is
+related to everything else.
+
+Now, the non-scientific mind sees things as more or less unrelated. The
+far-reaching causal relations are only imperfectly seen by it, while
+the scientific mind not only sees things, but inquires into their causes
+and effects or consequences. The non-scientific man, walking over the
+top of a mountain and noticing a stone there, is likely to see in it
+only a stone and think nothing of how it came to be there; but the
+scientific man sees quite an interesting bit of history in the stone. He
+reads in the stone that millions of years ago the place where the rock
+now lies was under the sea. Many marine animals left their remains in
+the mud underneath the sea. The mud was afterward converted into rock.
+Later, the shrinking and warping earth-crust lifted the rock far above
+the level of the sea, and it may now be found at the top of the
+mountain. The one bit of rock tells its story to one who inquires into
+its causes. The scientific man, then, sees more significance, more
+meaning, in things and events than does the non-scientific man.
+
+Each science has its own particular field. Zoölogy undertakes to answer
+every reasonable question about animals; botany, about plants; physics,
+about motion and forces; chemistry, about the composition of matter;
+astronomy, about the heavenly bodies, etc. The world has many aspects.
+Each science undertakes to describe and explain some particular aspect.
+To understand all the aspects of the world, we must study all the
+sciences.
+
+=A Scientific Law.= By _law_ a scientist has reference to uniformities
+which he notices in things and events. He does not mean that necessities
+are imposed upon things as civil law is imposed upon man. He means only
+that in certain well-defined situations certain events always take
+place, according to all previous observations. The Law of Falling Bodies
+may be cited as an example. By this law, the physicist means that in
+observing falling bodies in the past, he has noticed that they fall
+about sixteen feet in the first second and acquire in this time a
+velocity of thirty-two feet. He has noted that, taking into account the
+specific gravity of the object and the resistance of the air, this way
+of falling holds true of all objects at about the level of the sea.
+
+The more we carefully study the events of the world, the more strongly
+we come to feel that definite causes, under the same circumstances,
+always produce precisely the same result. The scientist has faith that
+events will continue to happen during all the future in the same order
+of cause and effect in which they have been happening during all the
+past.
+
+The astronomer, knowing the relations of the members of the solar
+system--the sun and planets--can successfully predict the occurrence of
+lunar and solar eclipses. In other fields, too, the scientist can
+predict with as much certainty as does the astronomer, provided his
+knowledge of the factors concerned is as complete as is the knowledge
+which the astronomer has of the solar system. Even in the case of human
+beings, uncertain as their actions seem to be, we can predict their
+actions when our knowledge of the factors is sufficiently complete. In a
+great many instances we do make such predictions. For example, if we
+call a person by name, we expect him to turn, or make some other
+movement in response. Our usual inability to make such predictions in
+the case of human beings is not because human beings are not subject to
+the law of cause and effect, it is not that their acts are due to
+chance, but that the factors involved are usually many, and it is
+difficult for us to find out all of them.
+
+=The Science of Psychology.= Now, let us ask, what is the science of
+psychology? What kind of problems does it try to solve? What aspect of
+the world has it taken for its field of investigation?
+
+We have said that each science undertakes to describe some particular
+aspect of the world. Human psychology is the science of human nature.
+But human nature has many aspects. To some extent, our bodies are the
+subject matter for physiology, anatomy, zoölogy, physics, and chemistry.
+Our bodies may be studied in the same way that a rock or a table might
+be studied. But a human being presents certain problems that a rock or
+table does not present. If we consider the differences between a human
+being and a table, we shall see at once the special field of psychology.
+If we stick a pin into a leg of the table, we get no response. If we
+stick a pin into a leg of a man, we get a characteristic response. The
+man moves, he cries out. This shows two very great differences between a
+man and a table. The man is _sensitive_ and has the power of action, the
+power of _moving himself_. The table is not sensitive, nor can it move
+itself. If the pin is thrust into one's own leg, one has _pain_. Human
+beings, then, are sensitive, conscious, acting beings. And the study of
+sensitivity, action, and consciousness is the field of psychology. These
+three characteristics are not peculiar to man. Many, perhaps all,
+animals possess them. There is, therefore, an animal psychology as well
+as human psychology.
+
+A study of the human body shows us that the body-surface and many parts
+within the body are filled with sensitive nerve-ends. These sensitive
+nerve-ends are the sense organs, and on them the substances and forces
+of the world are constantly acting. In the sense organs, the nerve-ends
+are so modified or changed as to be affected by some particular kind of
+force or substance. Vibrations of ether affect the eye. Vibrations of
+air affect the ear. Liquids and solutions affect the sense of taste.
+Certain substances affect the sense of smell. Certain organs in the skin
+are affected by low temperatures; others, by high temperatures; others,
+by mechanical pressure. Similarly, each sense organ in the body is
+affected by a definite kind of force or substance.
+
+This affecting of a sense organ is known technically as _stimulation_,
+and that which affects the organ is known as the _stimulus_.
+
+Two important consequences ordinarily follow the stimulation of a sense
+organ. One of these is movement. The purpose of stimulation is to bring
+about movement. To be alive is to respond to stimulation. When one
+ceases to respond to stimulation, he is dead. If we are to continue
+alive, we must constantly adjust ourselves to the forces of the world in
+which we live. Generally speaking, we may say that every nerve has one
+end in a sense organ and the other in a muscle. This arrangement of the
+nerves and muscles shows that man is essentially a sensitive-action
+machine. The problems connected with sensitivity and action and the
+relation of each to the other constitute a large part of the field of
+psychology.
+
+We said just now, that a nerve begins in a sense organ and ends in a
+muscle. This statement represents the general scheme well enough, but
+leaves out an important detail. The nerve does not extend directly to a
+muscle, but ordinarily goes by way of the brain. The brain is merely a
+great group of nerve cells and fibers which have developed as a central
+organ where a stimulation may pass from almost any sense organ to
+almost any muscle.
+
+But another importance attaches to the brain. When a sense organ is
+stimulated and this stimulation passes on to the brain and agitates a
+cell or group of cells there, _we are conscious_. Consciousness shifts
+and changes with every shift and change of the stimulation.
+
+The brain has still another important characteristic. After it has been
+stimulated through sense organ and nerve, a similar brain activity can
+be revived later, and this revival is the basis of _memory_. When the
+brain is agitated through the medium of a sense organ, we have
+_sensation_; when this agitation is revived later, we have a _memory
+idea_. A study of consciousness, or mind, the conditions under which it
+arises, and all the other problems involved, give us the other part of
+the field of psychology.
+
+We are not merely acting beings; we are _conscious_ acting beings.
+Psychology must study human nature from both points of view. We must
+study man not only from the outside; that is, objectively, in the same
+way that we study a stone or a tree or a frog, but we must study him
+from the inside or subjectively. It is of importance to know not only
+how a man _acts_, but also how he _thinks and feels_.
+
+It must be clear now, that human action, human behavior, is the main
+field of psychology. For, even though our main interests in people were
+in their minds, we could learn of the minds only through the actions.
+But our interests in other human beings are not in their minds but in
+_what they do_. It is true that our interest in ourselves is in our
+minds, and we can know these minds directly; but we cannot know
+directly the mind of another person, we can only guess what it is from
+the person's actions.
+
+=The Problems of Psychology.= Let us now see, in some detail, what the
+various problems of psychology are. If we are to understand human
+nature, we must know something of man's past; we must therefore treat of
+the origin and development of the human race. The relation of one
+generation to that preceding and to the one following makes necessary a
+study of heredity. We must find out how our thoughts, feelings,
+sensations, and ideas are dependent upon a physical body and its organs.
+A study of human actions shows that some actions are unlearned while
+others are learned or acquired. The unlearned acts are known as
+_instincts_ and the acquired acts are known as _habits_. Our psychology
+must, therefore, treat of instincts and habits.
+
+How man gets experience, and retains and organizes this experience must
+be our problem in the chapters on sensations, ideas, memory, and
+thinking. Individual differences in human capacity make necessary a
+treatment of the different types and grades of intelligence, and the
+compilation of tests for determining these differences. We must also
+treat of the application of psychology to those fields where a knowledge
+of human nature is necessary.
+
+=Applied Psychology.= At the beginning of a subject it is legitimate to
+inquire concerning the possibility of applying the principles studied to
+practical uses, and it is very proper to make this inquiry concerning
+psychology. Psychology, being the science of human nature, ought to be
+of use in all fields where one needs to know the causes of human action.
+And psychology is applicable in these fields to the extent that the
+psychologist is able to work out the laws and principles of human
+action.
+
+In education, for example, we wish to influence children, and we must go
+to psychology to learn about the nature of children and to find out how
+we can influence them. Psychology is therefore the basis of the science
+of education.
+
+Since different kinds of work demand, in some cases, different kinds of
+ability, the psychology of individual differences can be of service in
+selecting people for special kinds of work. That is to say, we must have
+sometime, if we do not now, a psychology of professions and vocations.
+Psychological investigations of the reliability of human evidence make
+the science of service in the court room. The study of the laws of
+attention and interest give us the psychology of advertising. The study
+of suggestion and abnormal states make psychology of use in medicine. It
+may be said, therefore, that psychology, once abstract and unrelated to
+any practical interests, will become the most useful of all sciences, as
+it works out its problems and finds the laws of human behavior.
+
+At present, the greatest service of psychology is to education. So true
+is this that a department has grown up called "educational psychology,"
+which constitutes at the present time the most important subdivision of
+psychology. While in this book we treat briefly of the various
+applications of psychology, we shall have in mind chiefly its
+application to education.
+
+=The Science of Education.= Owing to the importance which psychology has
+in the science of education, it will be well for us to make some inquiry
+into the nature of education. If the growth, development, and learning
+of children are all controlled and determined by definite causal
+factors, then a systematic statement of all these factors would
+constitute the science of education. In order to see clearly whether
+there is such a science, or whether there can be, let us inquire more
+definitely as to the kind of problems a science of education would be
+expected to solve.
+
+There are four main questions which the science of education must solve:
+(1) What is the aim of education? (2) What is the nature of education?
+(3) What is the nature of the child? (4) What are the most economical
+methods of changing the child from what it is into what it ought to be?
+
+The first question is a sociological question, and it is not difficult
+to find the answer. We have but to inquire what the people wish their
+children to become. There is a pretty general agreement, at least in the
+same community, that children should be trained in a way that will make
+them socially efficient. Parents generally wish their children to become
+honest, truthful, sympathetic, and industrious. It should be the aim of
+education to accomplish this social ideal. It should be the aim of the
+home and the school to subject children to such influences as will
+enable them to make a living when grown and to do their proper share of
+work for the community and state, working always for better things, and
+having a sympathetic attitude toward neighbors. Education should also do
+what it can to make people able to enjoy the world and life to the
+fullest and highest extent. Some such aim of education as this is held
+by all our people.
+
+The second question is also answered. Psychological analysis reveals the
+fact that education is a process of becoming adjusted to the world. It
+is the process of acquiring the habits, knowledge, and ideals suited to
+the life we are to live. The child in being educated learns what the
+world is and how to act in it--how to act in all the various situations
+of life.
+
+The third question--concerning the nature of the child--cannot be so
+briefly answered. In fact, it cannot be fully answered at the present
+time. We must know what the child's original nature is. This means that
+we must know the instincts and all the other inherited capacities and
+tendencies. We must know the laws of building up habits and of acquiring
+knowledge, the laws of retention and the laws of attention. These
+problems constitute the subject matter of educational psychology, and at
+present can be only partially solved. We have, however, a very
+respectable body of knowledge in this field, though it is by no means
+complete.
+
+The answer to the fourth question is in part dependent upon the progress
+in answering the third. Economical methods of training children must be
+dependent upon the nature of children. But in actual practice, we are
+trying to find out the best procedure of doing each single thing in
+school work; we are trying to find out by experimentation. The proper
+way to teach children to read, to spell, to write, etc., must be
+determined in each case by independent investigation, until our
+knowledge of the child becomes sufficient for us to infer from general
+laws of procedure what the procedure in a particular case should be. We
+venture to infer what ought to be done in some cases, but generally we
+feel insecure till we have proved our inference correct by trying out
+different methods and measuring the results.
+
+Education will not be fully scientific till we have definite knowledge
+to guide us at every step. What should we teach? When should we teach
+it? How should we teach it? How poorly we answer these questions at the
+present time! How inefficient and uneconomical our schools, because we
+cannot fully answer them! But they are answerable. We can answer them in
+part now, and we know how to find out the answer in full. It is just a
+matter of patient and extensive investigation. We must say, then, that
+we have only the beginnings of a science of education. The problems
+which a science of education must solve are almost wholly psychological
+problems. They could not be solved till we had a science of psychology.
+Experimental psychology is but a half-century old; educational
+psychology, less than a quarter-century old. In the field of education,
+the science of psychology may expect to make its most important
+practical contribution. Let us, then, consider very briefly the problems
+of educational psychology.
+
+=Educational Psychology.= Educational psychology is that division of
+psychology which undertakes to discover those aspects of human nature
+most closely related to education. These are (1) the original nature of
+the child--what it is and how it can be modified; (2) the problem of
+acquiring and organizing experience--habit-formation, memory, thinking,
+and the various factors related to these processes. There are many
+subordinate problems, such as the problem of individual differences and
+their bearing on the education of subnormal and supernormal children.
+Educational psychology is not, then, merely the application of
+psychology to education. It is a distinct science in itself, and its aim
+is the solving of those educational problems which for their solution
+depend upon a knowledge of the nature of the child.
+
+=The Method of Psychology.= We have enumerated the various problems of
+psychology, now how are they solved? The method of psychology is the
+same as that of all other sciences; namely, the method of observation
+and experiment. We learn human nature by observing how human beings act
+in all the various circumstances of life. We learn about the human mind
+by observing our own mind. We learn that we _see_ under certain
+objective conditions, _hear_ under certain objective conditions,
+_taste_, _smell_, _feel cold_ and _warm_ under certain objective
+conditions. In the case of ourselves, we can know both our _actions_ and
+our _mind_. In the case of others, we can know only their _actions_, and
+must infer their mental states from our own in similar circumstances.
+With certain restrictions and precautions this inference is legitimate.
+
+We said the method of psychology is that of observation and experiment.
+The experiment is observation still, but observation subjected to exact
+methodical procedure. In a psychological experiment we set out to
+provide the necessary conditions, eliminating some and supplying others
+according to our object. The experiment has certain advantages. It
+enables us to isolate the phenomena to be studied, it enables us to vary
+the circumstances and conditions to suit our purposes, it enables us to
+repeat the observation as often as we like, and it enables us to measure
+exactly the factors of the phenomena studied.
+
+=A Psychological Experiment.= Let us illustrate psychological method by a
+typical experiment. Suppose we wish to measure the individual
+differences among the members of a class with respect to a certain
+ability; namely, the muscular speed of the right hand. Psychological
+laboratories have delicate apparatus for making such a study. But let
+us see how we can do it, roughly at least, without any apparatus. Let
+each member of the class take a sheet of paper and a pencil, and make as
+many strokes as possible in a half-minute, as shown in Figure I. The
+instructor can keep the time with a stop watch, or less accurately with
+the second hand of an ordinary watch. Before beginning the experiment,
+the instructor should have each student taking the test try it for a
+second or two. This is to make sure that all understand what they are to
+do. When the instructor is sure that all understand, he should have the
+students hold their pencils in readiness above the paper, and at the
+signal, "Begin," all should start at the same time and make as many
+marks as possible in the half-minute. The strokes can then be counted
+and the individual scores recorded. The experiment should be repeated
+several times, say six or eight, and the average score for each
+individual recorded.
+
+[Illustration: FIGURE I.--STROKES MADE IN THIRTY SECONDS
+A test of muscular speed]
+
+Whether the result in such a performance as this varies from day to day,
+and is accidental, or whether it is constant and fundamental, can be
+determined by repeating the experiment from day to day. This repetition
+will also show whether improvement comes from practice.
+
+If it is decided to repeat the experiment in order to study these
+factors, constancy and the effects of practice, some method of studying
+and interpreting the results must be found. Elaborate methods of doing
+this are known to psychologists, but the beginner must use a simpler
+method. When the experiment is performed for the first time, the
+students can be ranked with reference to their abilities, the fastest
+one being called "first," the second highest, "second," and so on down
+to the slowest performer. Then after the experiment has been performed
+the second time, the students can be again ranked.
+
+A rough comparison can then be made as follows: Determine how many who
+were in the best half in the first experiment are among the best half in
+the second experiment. If most who were among the best half the first
+time are among the best half in the second experiment, constancy in this
+performance is indicated. Or we might determine how many change their
+ranks and how much they change. Suppose there are thirty in the class
+and only four improve their ranks and these to the extent of only two
+places each. This would indicate a high degree of constancy. Two
+different performances can be compared as above described. The abilities
+on successive days can be determined by taking the average rank of the
+first day and comparing it with the average rank of the second day.
+
+If the effects of practice are to be studied, the experiments must be
+kept up for many days, and each student's work on the first day compared
+with his work on succeeding days. Then a graph can be plotted to show
+the improvement from day to day. The average daily speed of the class
+can be taken and a graph made to show the improvement of the class as a
+whole. This might be plotted in black ink, then each individual student
+could put on his improvement in red ink, for comparison. A group of
+thirty may be considered as furnishing a fair average or norm in this
+kind of performance.
+
+In connection with this simple performance, making marks as fast as
+possible, it is evident that many problems arise. It would take several
+months to solve anything like all of them. It might be interesting, for
+example, to determine whether one's speed in writing is related to this
+simple speed in marking. Each member of the class might submit a plan
+for making such a study.
+
+The foregoing simple study illustrates the procedure of psychology in
+all experimentation. A psychological experiment is an attempt to find
+out the truth in regard to some aspect of human nature. In finding out
+this truth, we must throw about the experiment all possible safeguards.
+Every source of error must be discovered and eliminated. In the above
+experiment, for example, the work must be done at the same time of day,
+or else we must prove that doing it at different times of day makes no
+difference. Nothing must be taken for granted, and nothing must be
+assumed. Psychology, then, is like all the other sciences, in that its
+method of getting its facts is by observation and experiment.
+
+  SUMMARY. Science is systematic, related knowledge. Each science has
+  a particular field which it attempts to explore and describe. The
+  field of psychology is the study of sensitivity, action, and
+  consciousness, or briefly, human behavior. Its main problems are
+  development, heredity, instincts, habits, sensation, memory,
+  thinking, and individual differences. Its method is observation and
+  experiment, the same as in all other sciences.
+
+
+CLASS EXERCISES
+
+1. Make out a list of things about human nature which you would like to
+know. Paste your list in the front of this book, and as you find your
+questions answered in this book, or in other books which you may read,
+check them off. At the end of the course, note how many remain
+unanswered. Find out whether those not answered can be answered at the
+present time.
+
+2. Does everything you do have a cause? What kind of cause?
+
+3. Human nature is shown in human action. Human action consists in
+muscular contraction. What makes a muscle contract?
+
+4. Plan an experiment the object of which shall be to learn something
+about yourself.
+
+5. Enumerate the professions and occupations in which a knowledge of
+some aspect of human nature would be valuable. State in what way it
+would be valuable.
+
+6. Make a list of facts concerning a child, which a teacher ought to
+know.
+
+7. Make a complete outline of Chapter I.
+
+
+REFERENCES FOR CLASS READING
+
+MÜNSTERBERG: _Psychology, General and Applied_, Chapters I, II, and V.
+
+PILLSBURY: _Essentials of Psychology_, Chapter I.
+
+PYLE: _The Outlines of Educational Psychology_, Chapter I.
+
+TITCHENER: _A Beginner's Psychology_, Chapter I.
+
+
+
+
+CHAPTER II
+
+DEVELOPMENT OF THE RACE AND OF THE INDIVIDUAL
+
+
+=Racial Development.= The purpose of this chapter is to make some inquiry
+concerning the origin of the race and of the individual. In doing this,
+it is necessary for us first of all to fix in our minds the idea of
+causality. According to the view of all modern science, everything has a
+cause. Nothing is uncaused. One event is the result of other previous
+events, and is in turn the cause of other events that follow. Yesterday
+flowed into to-day, and to-day flows into to-morrow. The world as it
+exists to-day is the result of the world as it existed yesterday. This
+is true not only of the inorganic world--the world of physics and
+chemistry--but it is true of living things as well. The animals and
+plants that exist to-day are the descendants of others that lived
+before. There is probably an unbroken line of descent from the first
+life that existed on the earth to the living forms of to-day.
+
+Not only does the law of causality hold true in the case of our bodies,
+but of our minds as well. Our minds have doubtless developed from
+simpler minds just as our bodies have developed from simpler bodies.
+That different grades and types of minds are to be found among the
+various classes of animals now upon the earth, no one can doubt, for the
+different forms certainly show different degrees of mentality.
+According to the evidence of those scientists who have studied the
+remains of animals found in the earth's crust, there is a gradual
+development of animal forms shown in successive epochs. In the very
+oldest parts of the earth's crust, the remains of animal life found are
+very simple. In later formations, the remains show an animal life more
+complex. The highest forms of animals, the mammals, are found only in
+the more recent formations. The remains of man are found only in the
+latest formations.
+
+Putting these two facts together--(1) that the higher types of mind are
+found to-day only in the higher types of animals, and (2) that a gradual
+development of animal forms is shown by the remains in the earth's
+crust--the conclusion is forced upon us that mind has passed through
+many stages of development from the appearance of life upon the earth to
+the present time. Among the lower forms of animals to-day one sees
+evidence of very simple minds. In amoebas, worms, insects, and fishes,
+mind is very simple. In birds, it is higher. In mammals, it is higher
+still. Among the highest mammals below man, we see manifestations of
+mind somewhat like our own. These grades of mentality shown in the
+animals of to-day represent the steps in the development of mind in the
+animals of the past.
+
+We cannot here go into the proof of the doctrine of development. For
+this proof, the reader must be referred to zoölogy. One further point,
+however, may be noted. If it is difficult for the reader to conceive of
+the development of mind on the earth similar to the development of
+animals in the past, let him think of the development of mind in the
+individual. There can certainly be no doubt of the development of mind
+in an individual human being. The infant, when born, shows little
+manifestation of mentality; but as its body grows, its mind develops,
+becoming more and more complex as the individual grows to maturity.
+
+=The World as Dynamic.= The view of the world outlined above, and held by
+all scientific men of the present time, may be termed the _dynamic_
+view. Man formerly looked upon the world as static, a world where
+everything was fixed and final. Each thing existed in itself and for
+itself, and in large measure independent of all other things. We now
+look upon things and events as related and dependent. Each thing is
+dependent upon others, related to others.
+
+Man not only _lives in_ such a world, but is _part of_ such a world. In
+this world of constant and ceaseless change, man is most sensitive and
+responsive. Everything may affect him. To all of the constant changes
+about him he must adjust himself. He has been produced by this world,
+and to live in it he must meet its every condition and change. We must,
+then, look upon human nature as something coming out of the past and as
+being influenced every moment by the things and forces of the present.
+Man is not an independent being, unaffected by everything that happens;
+on the contrary, he is affected by all influences that act upon him.
+Among these influences may be mentioned weather, climate, food, and
+social forces.
+
+The condition of the various organs of a child's body determine, to some
+extent, the effect which these various forces have upon it. If a child's
+eyes are in any way defective, making vision poor, this tremendously
+influences his life. Not only is such a child unable to see the world as
+it really is, but the eyestrain resulting from poor vision has serious
+effects on the child, producing all sorts of disorders. If a child
+cannot hear well or is entirely deaf, many serious consequences follow.
+In fact, every condition or characteristic of a child that is in any way
+abnormal may lead on to other conditions and characteristics, often of a
+serious nature. The growth of adenoids, for example, may lead to a
+serious impairment of the mind. Poor vision may affect the whole life
+and character of the individual. The influence of a parent, teacher, or
+friend may determine the interest of a child and affect his whole life.
+The correct view of child life is that the child is affected, in greater
+or less degree, by every influence which acts upon him.
+
+=Significance of Development and Causality.= What are the consequences of
+the view just set forth? What is the significance of the facts that have
+been enumerated? It is of great consequence to our thinking when we come
+to recognize fully the idea of causality. We then fully accept the fact
+that man's body and mind are part of a causal and orderly world.
+
+Let us consider, for example, the movement of a muscle. Every such
+movement must be caused. The physiologist has discovered what this cause
+is. Ordinarily and normally, a muscle contracts only when stimulated by
+a nerve current. Tiny nerve fibrils penetrate every muscle, ending in
+the muscle fibers. The nerve-impulse passing into the fibers of the
+muscles causes them to contract. The nerve stimulus itself has a cause;
+it ordinarily arises directly or indirectly from the stimulation of a
+sense organ. And the sense organs are stimulated by outside influences,
+as was explained previously.
+
+Not only are our movements caused, but our sensations, our ideas, and
+our feelings follow upon or are dependent upon some definite bodily
+state or condition. The moment that we recognize this we see that our
+sensations, ideas, and feelings are subject to control. It is only
+because our minds are in a world of causality, and subject to its laws,
+that education is possible. We can bring causes to bear upon a child and
+change the child. It is possible to build up ideas, ideals, and habits.
+And ideas, ideals, and habits constitute the man. Training is possible
+only because a child is a being that can be influenced. What any child
+will be when grown depends upon what kind of child it was at the
+beginning and upon the influences that affect it during its early life
+while it is growing into maturity. We need have no doubt about the
+outcome of any particular child if we know, with some degree of
+completeness, the two sets of factors that determine his life--his
+inheritance and the forces that affect this inheritance. We can predict
+the future of a child to the extent that we know and understand the
+forces that will be effective in his life.
+
+The notion of causality puts new meaning into our view of the _training_
+of a child. The doctrine of development puts new meaning into our notion
+of the _nature_ of a child. We can understand man only when we view him
+genetically, that is, in the light of his origin. We can understand a
+child only in the light of what his ancestors have been.
+
+As these lines are being written, the greatest, the bloodiest war of
+history is in progress. Men are killing men by thousands and hundreds of
+thousands. How can we explain such actions? Observation of children
+shows that they are selfish, envious, and quarrelsome. They will fight
+and steal until they are taught not to do such things. How can we
+understand this? There is no way of understanding such actions until we
+come to see that the children and men of to-day are such as they are
+because of their ancestors. It has been only a few generations,
+relatively speaking, since our ancestors were naked savages, killing
+their enemies and eating their enemies' bodies. The civilized life of
+our ancestors covers a period of only a few hundred years. The
+pre-civilized life of our ancestors goes back probably thousands and
+thousands of years. In the relatively short period of civilization, our
+real, original nature has been little changed, perhaps none at all. The
+modern man is, at heart, the same old man of the woods.
+
+The improvements of civilization form what is called a social heritage,
+which must be impressed upon the original nature of each individual in
+order to have any effect. Every child has to learn to speak, to write,
+to dress, to eat with knife and fork; he must learn the various social
+customs, and to act morally as older people dictate. The child is by
+nature bad, in the sense that the nature which he inherits from the past
+fits him better for the original kind of life which man used to live
+than it does for the kind of life which we are trying to live now. This
+view makes us see that training a child is, in a very true sense,
+_making him over again_. The child must be trained to subdue and control
+his original impulses. Habits and ideals that will be suitable for life
+in civilized society _must be built up_. The doctrine of the Bible in
+regard to the original nature of man being sinful, and the necessity of
+regeneration, is fundamentally correct. But this regeneration is not so
+much a sudden process as it is the result of long and patient
+building-up of habits and ideals.
+
+One should not despair of this view of child-life. Neither should one
+use it as an excuse for being bad, or for neglecting the training of
+children. On the contrary, taking the genetic view of childhood should
+give us certain advantages. It makes us see more clearly the _necessity_
+of training. Every child must be trained, or he will remain very much a
+savage. In the absence of training, all children are much alike, and all
+alike bad from our present point of view. The chief differences in
+children in politeness and manners generally, in morals, in industry,
+etc., are due, in the main, to differences in training. It is a great
+help merely to know how difficult the task of training is, and that
+training there must be if we are to have a civilized child. We must take
+thought and plan for the education and training of our children. The
+task of education is in part one of changing human nature. This is no
+light task. It is one that requires, in the case of each child, some
+twenty years of hard, patient, persistent work.
+
+=Individual Development.= Heredity is a corollary of evolution. Individual
+development is intimately related to racial development. Indeed, racial
+development would be impossible without heredity in the individual. The
+individual must carry on and transmit what the race hands down to him.
+This will be evident when we explain what heredity means.
+
+By heredity we mean the likeness between parent and offspring. This
+likeness is a matter of form and structure as well as likeness of action
+or response. Animals and plants are like the parents in form and
+structure, and to a certain extent their responses are alike when the
+individuals are placed in the same situation. A robin is like the parent
+robins in size, shape, and color. It also hops like the parent birds,
+sings as they do, feeds as they do, builds a similar nest, etc. But the
+likeness in action is dependent upon likeness in structure. The young
+robin acts as does the old robin, because the nervous mechanism is the
+same, and therefore a similar stimulus brings about a similar response.
+
+Most of the scientific work in heredity has been done in the study of
+the transmission of physical characteristics. The main facts of heredity
+are evident to everybody, but not many people realize how far-reaching
+is the principle of resemblance between parent and offspring. From
+horses we raise horses. From cows we raise cows. The children of human
+beings are human. Not only is this true, but the offspring of horses are
+of the same stock as the parents. Not only are the colts of the same
+stock as the parents, but they resemble the parents in small details.
+This is also true of human beings. We expect a child to be not only of
+the same race as the parents, but to have family resemblances to the
+parents--the same color of hair, the same shape of head, the same kind
+of nose, the same color of eyes, and to have such resemblances as moles
+in the same places on the skin, etc. A very little investigation reveals
+likenesses between parent and offspring which we may not have expected
+before.
+
+However, if we start out to hunt for facts of heredity, we shall perhaps
+be as much impressed by differences between parent and child as we shall
+by the resemblances. In the first place, every child has two parents,
+and it is often impossible to resemble both. One cannot, for example, be
+both short and tall; one cannot be both fair and dark; one cannot be
+both slender and heavy; one cannot have both brown eyes and blue. In
+some cases, the child resembles one parent and not the other. In other
+cases, the child looks somewhat like both parents but not exactly like
+either. If one parent is white and the other black, the child is
+neither as white as the one parent nor as black as the other.
+
+The parents of a child are themselves different, but there are four
+grandparents, and each of them different from the others. There are
+eight great grandparents, and all of them different. If we go back only
+seven generations, covering a period of perhaps only a hundred and fifty
+years, we have one hundred and twenty-eight ancestors. If we go back ten
+generations, we have over a thousand ancestors in our line of descent.
+Each of these people was, in some measure, different from the others.
+Our inheritance comes from all of them and from each of them.
+
+How do all of these diverse characteristics work out in the child? In
+the first place, it seems evident that we do not inherit our bodies as
+wholes, but in parts or units. We may think of the human race as a whole
+being made up of a great number of unit characters. No one person
+possesses all of them. Every person is lacking in some of them. His
+neighbor may be lacking in quite different ones. Now one parent
+transmits to the child a certain combination of unit characters; the
+other parent, a different combination. These characteristics may not all
+appear in the child, but all are transmitted through it to the next
+generation, and they are transmitted purely. By being transmitted
+purely, we mean that the characteristic does not seem to lose its
+identity and disappear in fusions or mixtures. The essential point in
+this doctrine of heredity is known as Mendelism; it is the principle of
+inheritance through the pure transmission of unit characters.
+
+An illustration will probably make the Mendelian principle clear. Let us
+select our illustration from the plant world. It is found that if white
+and yellow corn are crossed, all the corn the first year, resulting from
+this crossing, will be yellow. Now, if this hybrid yellow corn is
+planted the second year, and freely cross-fertilized, it turns out that
+one fourth of it will be white and three fourths yellow. But this yellow
+consists of three parts: one part being pure yellow which will breed
+true, producing nothing but yellow; the other two parts transmit white
+and yellow in equal ratio. That is to say, these two parts are hybrids,
+the result of crossing white with yellow. It is not meant that one can
+actually distinguish these two kinds of yellow, the pure yellow and the
+hybrid yellow, but the results from planting it show that one third of
+the yellow is pure and that the other two thirds transmit white and
+yellow in equal ratio.
+
+The main point to notice in all this is that when two individuals having
+diverse characteristics are crossed, the characteristics do not fuse and
+disappear ultimately, but that the two characteristics are transmitted
+in equal ratio, and each will appear in succeeding generations, and will
+appear pure, just as if it had not been crossed with something
+different. The first offspring resulting from the cross--known as
+hybrids--may show either one or the other of the diverse
+characteristics, or, when such a thing is possible, even a blending of
+the two characteristics. But whatever the actual appearance of the first
+generation of offspring resulting from crossing parents having diverse
+characteristics, their germ-cells transmit the diverse characteristics
+in equal proportion, as explained above.
+
+When one of the diverse characteristics appears in the first generation
+of offspring and the other does not appear, or is not apparent, the one
+that appears is said to be _dominant_, while the one not appearing is
+said to be _recessive_. In our example of the yellow and white corn,
+yellow is dominant and white recessive. And it must be remembered that
+the white corn that appears in the second generation will breed true
+just as if it had never been crossed with the yellow corn. One third of
+the yellow of the second generation would also breed true if it could be
+separated from the other two thirds.
+
+It is not here claimed that Mendelism is a universal principle, that all
+characteristics are transmitted in this way. However, the results of the
+numerous experiments in heredity lead one to expect this to be the case.
+Most of the experiments have been with lower animals and with plants,
+but recent experiments and statistical studies show that Mendelism is an
+important factor in human heredity, in such characteristics as color of
+hair and eyes and skin, partial color blindness, defects of eye, ear,
+and other important organs.
+
+The studies that have been made of human heredity have been, for the
+most part, studies of the transmission of physical characteristics. Very
+little has been done that bears directly upon the transmission of mental
+characteristics. But our knowledge of the dependence of mind upon body
+should prepare us to infer mental heredity from physical heredity. Such
+studies as throw light on the question bear us out in making such an
+inference.
+
+The studies that have been more directly concerned with mental heredity
+are those dealing with the resemblances of twins, studies of heredity in
+royalty, studies of the inheritance of genius, and studies of the
+transmission of mental defects and defects of sense organs. The results
+of all these studies indicate the inheritance of mental characteristics
+in the same way that physical characteristics are transmitted. Not only
+are human mental characteristics transmitted from parent to offspring,
+but they seem to be transmitted in Mendelian fashion.
+
+Feeble-mindedness, for example, seems to be a Mendelian character and
+recessive. From the studies that have been made, it seems that two
+congenitally feeble-minded parents will have only feeble-minded
+children. Feeble-mindedness acts in heredity as does the white corn in
+the example given above. If one parent only is feeble-minded, the other
+being normal, all of the children will be normal, just as all of the
+corn, in the first generation after the crossing, was yellow. But these
+children whose parents are the one normal and the other feeble-minded,
+while themselves normal, transmit feeble-mindedness in equal ratio with
+normality. It works out as follows: If a feeble-minded person marry a
+person of sound mind and sound stock, the children will all be of sound,
+normal mind. If these children take as husbands and wives men and women
+who had for parents one normal and one feeble-minded person, their
+children will be one fourth feeble-minded and three fourths of them
+normal.
+
+To summarize the various conditions: If a feeble-minded person marry a
+feeble-minded person, all the children will be feeble-minded. If a
+feeble-minded person marry a sound, normal person (pure stock), all the
+children will be normal. If the children, in the last case, marry others
+like themselves as to origin, one fourth of their offspring will be
+feeble-minded. If such hybrid children marry feeble-minded persons, one
+half of the offspring will be feeble-minded. It is rash to prophesy, but
+future studies of heredity may show that Mendelism, or some
+modification of the principle, always holds true of mind as well as of
+body.
+
+Little can be said about the transmission of particular definite mental
+traits, such as the various aspects of memory, association, attention,
+temperament, etc. Before we can speak with any certainty here, we must
+make very careful experimental studies of these mental traits in parents
+and offspring. No such work has been done. All we have at the present
+time is the result of general observation.
+
+=Improvement of the Race.= Eugenics is the science of improvement of the
+human race by breeding. While we can train children and thereby make
+them much better than they would be without such training, this training
+does not improve the stock. The improvement of the stock can be
+accomplished only through breeding from the best and preventing the poor
+stock from leaving offspring. This is a well-known principle in the
+breeding of domestic animals.
+
+It is doubtless just as true in the case of human beings. The hygienic
+and scientific rearing of children is good for the children and makes
+their lives better, but probably does not affect their offspring. We
+should not forget that all the social and educational influences die
+with the generation that receives them. They must be impressed by
+training on the next generation or that generation will receive no
+influence from them. The characters which we acquire in our lifetime
+seem not to be transmitted to our children, except through what is known
+as social heredity, which is merely the taking on of characteristics
+through imitation. Our children must go through all the labor of
+learning to read, write, spell, add, multiply, subtract, and divide,
+which we went through. Moral traits, manners and customs, and other
+habits and ideals of social importance must be acquired by each
+successive generation.
+
+=Heredity _versus_ Environment.= The question is often asked whether
+heredity or the influence of environment has the most to do with the
+final outcome of one's life. It is a rather useless question to ask, for
+what a human being or anything else in the world does depends upon what
+it is itself and what the things and forces are that act upon it.
+Heredity sets a limitation for us, fixes the possibilities. The
+circumstances of life determine what we will do with our inherited
+abilities and characteristics. Hereditary influences incline us to be
+tall or short, fat or lean, light or dark. The characteristics of our
+memory, association, imagination, our learning capacity, etc., are
+determined by heredity. Of course, how far these various aspects develop
+is to some extent dependent upon the favorable or unfavorable influences
+of the environment. What is possible for us to do is settled by
+heredity; what we may actually do, what we may have the opportunity to
+do, is largely a matter of the circumstances of life.
+
+In certain parts of New England, the number of men who become famous in
+art, science, or literature is very great compared to the number in some
+other parts of our country. As far as we have any evidence, the native
+stocks are the same in the two cases, but in New England the influences
+turn men into the direction of science, art, and literature. Everything
+there is favorable. In other parts of the country, the influences turn
+men into other spheres of activity. They become large landowners, men of
+business and affairs.
+
+The question may be asked whether genius makes its way to the front in
+spite of unfavorable circumstances. Sometimes it doubtless does. But
+pugnacity and perseverance are not necessarily connected with
+intellectual genius. Genius may be as likely to be timid as belligerent.
+Therefore unfavorable circumstances may crush many a genius.
+
+The public schools ought to be on the watch for genius in any and all
+kinds of work. When a genius is found, proper training ought to be
+provided to develop this genius for the good of society as well as for
+the good of the individual himself. A few children show ability in
+drawing and painting, others in music, others in mechanical invention,
+some in literary construction. When it is found that this ability is
+undoubtedly a native gift and not a passing whim, special opportunity
+should be provided for its development and training. It will be better
+for the general welfare, as well as for individual happiness, if each
+does in life that for which he is by nature best fitted. For most of us,
+however, there is not much difference in our abilities. We can do one
+thing as well as we can many other things. But in a few there are
+undoubted special native gifts.
+
+  SUMMARY. This is an orderly world, in which everything has a cause.
+  All events are connected in a chain of causes and effects. Human
+  beings live in this world of natural law and are subject to it.
+  Human life is completely within this world of law and order and is a
+  part of it. Education is possible only because we can change human
+  beings by having influences act upon them.
+
+  Individuals receive their original traits from their ancestors,
+  probably as parts or units. Mendelism is the doctrine of the pure
+  transmission of unit characters. Eugenics is the science of
+  improving the human race by selective breeding. An individual's life
+  is the result of the interaction of his hereditary characteristics
+  and his environment.
+
+
+CLASS EXERCISES
+
+1. Try to find rock containing the remains of animals. You can get
+information on such matters from a textbook on geology.
+
+2. Read in a geology about the different geological epochs in the
+history of the earth.
+
+3. Make a comparison of the length of infancy in the lower animals and
+in man. What is the significance of what you find? What advantage does
+it give man?
+
+4. What is natural selection? How does it lead to change in animals?
+Does natural selection still operate among human beings? (See a modern
+textbook on zoölogy.)
+
+5. By observation and from consulting a zoölogy, learn about the
+different classes of animal forms, from low forms to high forms.
+
+6. By studying domestic animals, see what you can learn about heredity.
+Enumerate all the points that you find bearing upon heredity.
+
+7. In a similar way, make a study of heredity in your family. Consider
+such characteristics as height, weight, shape of head, shape of nose,
+hair and eye color. Can you find any evidence of the inheritance of
+mental traits?
+
+8. Make a complete outline of Chapter II.
+
+
+REFERENCES FOR CLASS READING
+
+DAVENPORT: _Heredity in Relation to Eugenics_.
+
+KELLICOTT: _The Social Direction of Human Evolution_.
+
+
+
+
+CHAPTER III
+
+MIND AND BODY
+
+
+=Gross Dependence.= The relation of mind to body has always been an
+interesting one to man. This is partly because of the connection of the
+question with that of life after death. An old idea of this relation,
+almost universally held till recently, was that the mind or spirit lived
+in the body but was more or less independent of the body. The body has
+been looked upon as a hindrance to the mind or spirit. Science knows
+nothing about the existence of spirits apart from bodies. The belief
+that after death the mind lives on is a matter of faith and not of
+science. Whether one believes in an existence of the mind after death of
+the body, depends on one's religious faith. There is no scientific
+evidence one way or the other. The only mind that science knows anything
+about is bound up very closely with body. This is not saying that there
+is no existence of spirit apart from body, but that at present such
+existence is beyond the realm of science.
+
+The dependence of mind upon body in a general way is evident to every
+one, upon the most general observation and thought. We know the effect
+on the mind of disease, of good health, of hunger, of fatigue, of
+overwork, of severe bodily injury, of blindness or deafness. We have,
+perhaps, seen some one struck upon the head by a club, or run over by an
+automobile, and have noted the tremendous consequences to the person's
+mind. In such cases it sometimes happens that, as far as we can see,
+there is no longer any mind in connection with that body. The most
+casual observation, then, shows that mind and body are in some way most
+intimately related.
+
+=Finer Dependence.= Let us note this relation more in detail, and, in
+particular, see just which part of the body it is that is connected with
+the mind. First of all, we note the dependence of mind upon sense
+organs. We see only with our eyes. If we close the eyelids, we cannot
+see. If we are born blind, or if injury or disease destroys the retinas
+of the eyes or makes the eyes opaque so that light cannot pass through
+to the retinas, then we cannot see.
+
+Similarly, we hear only by means of the ears. If we are born deaf, or if
+injury destroys some important part of the hearing mechanism, then we
+cannot hear. In like manner, we taste only by means of the taste organs
+in the mouth, and smell only with the organs of smell in the nose. In a
+word, our primary knowledge of the world comes only through the sense
+organs. We shall see presently just how this sensing or perceiving is
+accomplished.
+
+=Dependence of Mind on Nerves and Brain.= We have seen how in a general
+way the mind is dependent on the body. We have seen how in a more
+intimate way it is dependent on the special sense organs. But the part
+of the body to which the mind is most directly and intimately related is
+the nervous system. The sense organs themselves are merely modifications
+of the nerve ends together with certain mechanisms for enabling stimuli
+to act on the nerve ends. The eye is merely the optic nerve spread out
+to form the retina and modified in certain ways to make it sensitive to
+ether vibrations. In addition to this, there is, of course, the focusing
+mechanism of the eye. So for all the sense organs; they are, each of
+them, some sort of modification of nerve-endings which makes them
+sensitive to some particular force or substance.
+
+Let us make the matter clear by an illustration. Suppose I see a picture
+on the wall. My eyes are directed toward the picture. Light from the
+picture is refracted within the eyes, forming an image on each retina.
+The retina is sensitive to the light. The light produces chemical
+changes on the retina. These changes set up an excitation in the optic
+nerves, which is conducted to a certain place in the brain, causing an
+excitation in the brain. Now the important point is that when this
+excitation is going on in the brain, _we are conscious, we see the
+picture_.
+
+As far as science can determine, we do not see, nor hear, nor taste, nor
+smell, nor have any other sensation unless a sense organ is excited and
+produces the excitation in the brain. There can be no doubt about our
+primary, sensory experience. By primary, sensory experience is meant our
+immediate, direct knowledge of any aspect of the world. In this field of
+our conscious life, we are entirely dependent upon sense organs and
+nerves and brain. Injuries to the eyes destroying their power to perform
+their ordinary work, or injuries to the optic nerve or to the visual
+center in the brain, make it impossible for us to see.
+
+These facts are so self-evident that it seems useless to state them. One
+has but to hold his hands before his eyes to convince himself that the
+mind sees by means of eyes, which are physical sense organs. One has but
+to hold his hands tight over his ears to find out that he hears by
+means of ears--again, physical sense organs.
+
+But simple and self-evident as the facts are, their acceptance must have
+tremendous consequences to our thinking, and to our view of human
+nature. If the mind is dependent in every feature on the body with its
+sense organs, this must give to this body and its sense organs an
+importance in our thought and scheme of things that they did not have
+before. This close dependence of mind upon body must give to the body a
+place in our scheme of education that it would not have under any other
+view of the mind. We wish to emphasize here that this statement of the
+close relation of the mind and body is not a theory which one may accept
+or not. It is a simple statement of fact. It is a presupposition of
+psychology. By "presupposition" is meant a fundamental principle which
+the psychologist always has in mind. It is axiomatic, and has the same
+place in psychology that axioms have in mathematics. All explanations of
+the working of the mind must be stated in terms of nerve and brain
+action, and stimulation of sense organs.
+
+Since the sense organs are the primary and fundamental organs through
+which we get experience, and since the sensations are the elementary
+experiences out of which all mental life is built, it is necessary for
+us to have a clear idea of the sense organs, their structure and
+functions, and of the nature of sensations.
+
+=Vision.= _The Visual Sense Organs._ The details of the anatomy of the eye
+can be looked up in a physiological textbook. The essential principles
+are very simple. The eye is made on the principle of a photographer's
+camera. The retina corresponds to the sensitive plate of the camera. The
+light coming from objects toward which the eyes are directed is focused
+on the retina, forming there an image of the object. The light thus
+focused on the retina sets up a chemical change in the delicate nerve
+tissue; this excitation is transmitted through the optic nerve to the
+occipital (back) part of the brain, and sets up brain action there. Then
+we have visual sensation; we see the object.
+
+The different colors that we see are dependent upon the vibration
+frequency of the ether. The higher frequencies give us the colors blue
+and green, and the lower frequencies give us the colors yellow and red.
+The intermediate frequencies give us the intermediate colors blue-green
+and orange. By vibration frequencies is meant the rate at which the
+ether vibrates, the number of vibrations a second. If the reader wishes
+to know something about these frequencies, such information can be found
+in a textbook on physics.
+
+It will be found that the vibration rates of the ether are very great.
+It is only within a certain range of vibration frequency that sunlight
+affects the retina. Slower rates of vibration than that producing red do
+not affect the eye, and faster than that producing violet do not affect
+the eye. The lightness and darkness of a color are dependent upon the
+intensity of the vibration. Red, for example, is produced by a certain
+vibration frequency. The more intense the vibration, the brighter the
+red; the less intense, the darker the red.
+
+When all the vibration frequencies affect the eyes at the same time, we
+see no color at all but only brightness. This is due to the fact that
+certain vibration frequencies neutralize each other in their effect on
+the retina, so far as producing color is concerned. Red neutralizes
+green, blue neutralizes yellow, violet neutralizes yellowish green,
+orange neutralizes bluish green.
+
+All variations in vision as far as color and brightness are concerned
+are due to variations in the stimulus. Changes in vibration frequency
+give the different colors. Changes in intensity give the different
+brightnesses: black, gray, and white. All explanations of the many
+interesting phenomena of vision are to be sought in the physiological
+action of the eye.
+
+Besides the facts of color and light and shade, already mentioned, some
+further interesting visual phenomena may be mentioned here.
+
+_Visual Contrast._ Every color makes objects near it take on the
+antagonistic or complementary color. Red makes objects near appear
+green, green makes them appear red. Blue makes near objects appear
+yellow, while yellow makes them appear blue. Orange induces greenish
+blue, and greenish blue induces orange. Violet induces yellowish green,
+and yellowish green induces violet. These color-pairs are known as
+antagonistic or complementary colors. Each one of a pair enhances the
+effect of its complementary when the two colors are brought close
+together. In a similar way, light and dark tints act as complementaries.
+Light objects make dark objects near appear darker, and dark objects
+make light objects near seem lighter.
+
+These universal principles of contrast are of much practical
+significance. They must be taken account of in all arrangements of
+colors and tints, for example, in dress, in the arrangement of flowers
+and shrubs, in painting.
+
+_Color-Mixture._ If, on a rotating motor, disks of different colors--say
+red and yellow--are placed and rotated, one sees on looking at them not
+red or yellow but orange. This phenomenon is known as _color-mixture_.
+The result is due to the simultaneous stimulation of the retina by two
+kinds of ether vibration. If the colors used are a certain red and a
+certain green, they neutralize each other and produce only gray. All the
+pairs of complementary colors mentioned above act in the same way,
+producing, if mixed in the right proportion, no color, but gray. If
+colored disks not complementary are mixed by rotation on a motor, they
+produce an intermediate color. Red and yellow give orange. Blue and
+green give bluish green. Yellow and green give yellowish green. Red and
+blue give violet or purple, depending on the proportion. Mixing pigments
+gives, in general, the same results as mixing by means of rotating the
+disks. The ordinary blue and yellow pigments give green when mixed,
+because each of the two pigments contains green. The blue and yellow
+neutralize each other, leaving green.
+
+_Visual After-Images._ The stimulation of the retina has interesting
+after effects. We shall mention here only the one known as _negative
+after-images_. If one will place on the table a sheet of white paper,
+and on this white paper lay a small piece of colored paper, and if he
+will then gaze steadily at the colored paper for a half-minute, it will
+be found that if the colored paper is removed one sees its complementary
+color. If the head is not moved, this complementary color has the same
+size and shape as the original colored piece of paper. The negative
+after-image can be projected on a background at different distances, its
+size depending on the distance of the background. The after-image will
+be found to mix with an objective color in accordance with the
+principles of color-mixture mentioned above.
+
+After-image phenomena have some practical consequences. If one has been
+looking at a certain color for some time, a half-minute or more, then
+looks at some other color, the after-image of the first color mixes with
+the second color.
+
+_Adaptation._ The fact last mentioned leads us to the subject of
+adaptation. If the eyes are stimulated by the same kind of light for
+some time, the eyes become adapted to that light. If the light is
+yellow, at first objects seem yellow, but after a time they look as if
+they were illuminated with white light, losing the yellow aspect. But if
+one then goes out into white light, everything looks bluish. The
+negative after-image of the yellow being cast upon everything makes the
+surroundings look blue, for the after-image of yellow is blue. All the
+other colors act in a similar way, as do also black and white. If one
+has been for some time in a dark room and then goes out to a lighter
+place, it seems unusually light. And if one goes from the light to a
+dark room, it seems unusually dark.
+
+=Hearing or Audition.= Just as the eye is an organ sensitive to certain
+frequencies of ether vibration, so the ear is an organ sensitive to
+certain air vibrations. The reader should familiarize himself with the
+physiology of the ear by reference to physiologies. The drum-skin, the
+three little bones of the middle ear, and the cochlea of the inner ear
+are all merely mechanical means of making possible the stimulation of
+the specialized endings of the auditory nerve by vibrations of air.
+
+As the different colors are due to different vibration frequencies of
+the ether, so different pitches of sound are due to differences in the
+rates of the air vibrations. The low bass notes are produced by the low
+vibration frequencies. The high notes are produced by the high
+vibration frequencies. The lowest notes that we can hear are produced by
+about twenty vibrations a second, and the highest by about forty
+thousand vibrations a second.
+
+=Other Sense Organs.= We need not give a detailed statement of the facts
+concerning the other senses. In each case the sense organ is some
+special adaptation of the nerve-endings with appropriate apparatus in
+connection to enable it to be affected by some special thing or force in
+the environment.
+
+In the case of taste, we find in the mouth, chiefly on the back and
+edges of the tongue, organs sensitive to sweet, sour, salt, and bitter.
+In the nose we have an organ that is sensitive to the tiny particles of
+substances that float in the air which we breathe in through the nose.
+
+In the skin we find several kinds of sense organs that give us the
+sensations of cold and warmth, of pressure and pain. These are all
+special and definite sensations produced by different kinds of organs.
+The sense of warmth is produced by different organs from those which
+produce the sense of cold. These organs can be detected and localized on
+the skin. So, also, pain and touch or pressure have each its particular
+organ.
+
+Within the body itself we have sense organs also, particularly in the
+joints and tendons and in the muscles. These give us the sensations
+which are the basis of our perception of motion, and of the position of
+the body and its members. In the semicircular canals of the inner ear
+are organs that give us the sense of dizziness, and enable us to
+maintain our equilibrium and to know up from down.
+
+The general nature of the sense organs and of sensation should now be
+apparent. The nervous system reaches out its myriad fingers to every
+portion of the surface of the body, and within the body as well. These
+nerve-endings are specially adapted to receive each its particular form
+of stimulation. This stimulation of our sense organs is the basis or
+cause of our sensations. And our sensations are the elementary stuff of
+all our experience. Whatever thoughts we have, whatever ideas or images
+we have, they come originally from our sensations. They are built up out
+of our sensations or from these sensations as they exist in memory.
+
+=Defects of Sense Organs.= The organs of sight and hearing are now by far
+the most important of our sense organs. They enable us to sense things
+that are at a distance. We shall therefore discuss defects of these two
+organs only. Since sensations are the primary stuff out of which mind is
+made, and since sight and hearing are the most important sense organs,
+it is evident that our lives are very much dependent on these organs. If
+they cannot do their work well, then we are handicapped. And this is
+often the case.
+
+The making of the human eye is one of the most remarkable achievements
+of nature. But the making of a perfect eye is too big a task for nature.
+She never makes a perfect eye. There is always some defect, large or
+small. To take plastic material and make lenses and shutters and
+curtains is a great task. The curvature of the front of the eye and of
+the front and back of the crystalline lens is never quite perfect, but
+in the majority of cases it is nearly enough perfect to give us good
+vision. However, in about one third of school children the defect is
+great enough to need to be corrected by glasses.
+
+The principle of the correction of sight by means of glasses is merely
+this:[1] When the focusing apparatus of the eye is not perfect, it can
+be made so by putting in front of the eye the proper kind of lens. There
+is nothing strange or mysterious about it. In some cases, the eye
+focuses the light before it reaches the retina. Such cases are known as
+nearsightedness and are corrected by having placed in front of the eyes
+concave lenses of the proper strength. These lenses diverge the rays and
+make them focus on the retina. In other cases, the eye is not able to
+focus the rays by the time they reach the retina. In these cases, the
+eyes need the help of convex lenses of the proper strength to make the
+focus fall exactly on the retina.
+
+[1] The teacher should explain these principles and illustrate by
+drawings. Consult a good text in physiology. Noyes' University of
+Missouri Extension Bulletin on eye and ear defects will be found most
+useful.
+
+Another defect of the eye, known as astigmatism, is due to the fact that
+the eye does not always have a perfectly spherical front (cornea). The
+curvature in one direction is different from that in others. For
+example, the vertical curvature may be more convex than the horizontal.
+Such a condition produces a serious defect of vision. It can be
+corrected by means of cylindrical lenses of the proper strength so
+placed before the eye as to correct the defect in curvature.
+
+Still another defect of vision is known as presbyopia or farsightedness
+due to old age. It has the following explanation: In early life, when we
+look at near objects, the crystalline lens automatically becomes
+thicker, more convex. This adjustment brings the rays to a focus on the
+retina, which is required for good vision. As we get old, the
+crystalline lens loses its power to change its adjustment for near
+objects, although the eye may see at a distance as well as ever. The
+old person, therefore, must wear convex glasses when looking at near
+objects, as in reading and sewing.
+
+Another visual defect of a different nature is known as partial color
+blindness. The defects described above are due to misshapen eyes.
+Partial color blindness is due to a defect of the retina which makes it
+unable to be affected by light waves producing red and green. A person
+with this defect confuses red and green. While only a small percentage
+of the population has this defect, it is nevertheless very important
+that those having it be detected. People having the defect should not be
+allowed to enter occupations in which the seeing of red and green is
+important. It was recently brought to the author's attention that a
+partially color-blind man was selling stamps in a post office. Since two
+denominations of stamps are distinguished by red and green colors, this
+man made frequent mistakes. He was doing one of the things for which he
+was specially unfitted. It is easy to detect color blindness by simple
+tests.
+
+So great is the importance of good vision in school work and the later
+work of life, that every teacher should know how to make simple tests to
+determine visual defects. Children showing any symptoms of eyestrain
+should be required to have their visual defects corrected by a competent
+oculist, and should be warned not to have the correction made by a
+quack. There is great popular ignorance and even prejudice concerning
+visual defects, and it is very important that teachers have a clear
+understanding of the facts.
+
+=Defects of Hearing.= Hearing defects are only about half as frequent as
+those of sight. They are nearly all due to catarrhal infection of the
+middle ear through the Eustachian tube. The careful and frequent
+medical examination of school children cannot, therefore, be too
+strongly emphasized. The deafness or partial deafness that comes from
+this catarrhal infection can seldom be cured; it must be prevented by
+the early treatment of the troubles which cause it.
+
+  SUMMARY. The mind is closely related to the body. Especially is it
+  dependent upon the brain, nerves, and sense organs. The sense organs
+  are special adaptations of the nerve-ends for receiving impressions.
+  Each sense organ receives only its particular type of impression.
+
+  The main visual phenomena are those of color-mixture, after-images,
+  adaptation, and contrast. Since sensation is the basis of mental
+  life, defects of the sense organs are serious handicaps and should
+  be corrected if possible. Visual defects are usually due to a
+  misshapen eyeball and can be corrected by proper glasses, which
+  should be fitted by an oculist. Hearing defects usually arise from
+  catarrhal trouble in the middle ear.
+
+
+CLASS EXERCISES
+
+1. Make a study of the relation of the mind to the body. Enumerate the
+different lines of evidence which you may find indicating their close
+relationship.
+
+2. Can you find any evidence tending to show that the mind is
+independent of the body?
+
+3. _Color-Mixture._ Colored disks can be procured from C. H. Stoelting
+Company, Chicago. If a small motor is available, the disks can be
+rotated on the motor and the colors mixed. Mix pairs of complementary
+colors, also pairs of non-complementary colors, and note the result. A
+simple device can be made for mixing colors, as follows: On a board
+stand a pane of glass. On one side of the glass put a colored paper and
+on the other side of the glass put a different color. By looking through
+the glass you can see one color through transmitted light and the other
+color through reflected light. By inclining the glass at different
+angles you can get different proportions of the mixture, now more of one
+color, now more of the other.
+
+4. _Negative After-Images._ Cut out pieces of colored paper a half inch
+square. Put one of these on a white background on the table. With elbows
+on the table, hold the head in the hands and gaze at the colored paper
+for about a half-minute, then blow the paper away and continue to gaze
+at the white background. Note the color that appears. Use different
+colors and tabulate the results. Try projecting the after-images at
+different distances. Project the after-images on different colored
+papers. Do the after-images mix with the colors of the papers?
+
+5. An interesting experiment with positive after-images can be performed
+as follows: Shut yourself in a dark closet for fifteen or twenty minutes
+to remove all trace of stimulation of the retina. With the eyes covered
+with several folds of thick black cloth go to a window, uncover the eyes
+and take a momentary look at the landscape, immediately covering the
+eyes again. The landscape will appear as a positive after-image, with
+the positive colors and lights and shades. The experiment is best
+performed on a bright day.
+
+6. _Adaptation._ Put on colored glasses or hold before the eyes a large
+piece of colored glass. Note that at first everything takes on the color
+of the glass. What change comes over objects after the glasses have been
+worn for fifteen or twenty minutes? Describe your experience after
+removing the glasses. Plan and perform other experiments showing
+adaptation. For illustration, go from a very bright room into a dark
+room. Go from a very dark room to a light one. Describe your experience.
+
+7. _Contrast._ Take a medium gray paper and lay it on white and various
+shades of gray and black paper. Describe and explain what you find.
+
+8. _Color Contrast._ Darken a room by covering all the windows except
+one window pane. Cover it with cardboard. In the cardboard cut two
+windows six inches long and one inch wide. Over one window put colored
+glass or any other colored material through which some light will pass.
+By holding up a pencil you can cast two shadows on a piece of paper.
+What color are the shadows? One is a contrast color induced by the
+other; which one? Explain the results.
+
+9. Make a study of the way in which women dress. What do you learn about
+color effects?
+
+10. From the Stoelting Company you can obtain the Holmgren worsteds for
+studying color blindness.
+
+11. _Defective Vision._ Procure a Snellen's test chart and determine the
+visual acuity of the members of the class. Seat the subject twenty feet
+from the chart, which should be placed in a good light. While testing
+one eye, cover the other with a piece of cardboard. Above each row of
+letters on the chart is a number which indicates the distance at which
+it can be read by a normal eye. If the subject can read only the
+thirty-foot line, his vision is said to be 20/30; if only the forty-foot
+line, the vision is 20/40. If the subject can read above the twenty-foot
+line and complains of headache from reading, farsightedness is
+indicated. If the subject cannot read up to the twenty-foot line,
+nearsightedness or astigmatism is indicated.
+
+12. _Hearing._ By consultation with the teacher of physics, plan an
+experiment to show that the pitch of tones depends on vibration
+frequency. Such an experiment can be very simply performed by rotating a
+wheel having spokes. Hold a light stick against the spokes so that it
+strikes each spoke. If the wheel is rotated so as to give twenty or
+thirty strokes a second, a very low tone will be heard. By rotating the
+wheel faster you get a higher tone. Other similar experiments can be
+performed.
+
+13. Acuity of hearing can be tested by finding the distance at which the
+various members of the class can hear a watch-tick. The teacher can plan
+an experiment using whispering instead of the watch-tick. (See the
+author's _Examination of School Children_.)
+
+14. By using the point of a nail, one can find the "cold spots" on the
+skin. Warm the nail to about 40 degrees Centigrade and you can find the
+"warm spots."
+
+15. By touching the hairs on the back of the hand, you can stimulate the
+"pressure spots."
+
+16. By pricking the skin with the point of a needle, you can stimulate
+the "pain spots."
+
+17. The sense of taste is sensitive only to solutions that are sweet,
+sour, salt, or bitter. Plan experiments to verify this point. What we
+call the "taste" of many things is due chiefly to odor. Therefore in
+experiments with taste, the nostrils should be stopped up with cotton.
+It will be found, for example, that quinine and coffee are
+indistinguishable if their odors be eliminated by stopping the nose. The
+student should compare the taste of many substances put into the mouth
+with the nostrils open with the taste of the same substances with the
+nostrils closed.
+
+
+REFERENCES FOR CLASS READING
+
+COLVIN AND BAGLEY: _Human Behavior_, Chapters VII and XII.
+
+MÜNSTERBERG: _Psychology, General and Applied_, Chapters III, IV, VI,
+and VII.
+
+PILLSBURY: _Essentials of Psychology_, Chapters II, III, and IV.
+
+PYLE: _The Outlines of Educational Psychology_, Chapter II.
+
+TITCHENER: _A Beginner's Psychology_, Chapter I, par. 3; also
+Chapter II.
+
+
+
+
+CHAPTER IV
+
+INHERITED TENDENCIES
+
+
+=Stimulus and Response.= We have learned something about the sense organs
+and their functions. We have seen that it is through the sense organs
+that the world affects us, stimulates us. And we have said that we are
+stimulated in order that we may respond.
+
+We must now inquire into the nature of our responses. We are moving,
+active beings. But how do we move, how do we act when stimulated? Why do
+we do one thing rather than another? Why do we do one thing at one time
+and a different thing at another time?
+
+Before we answer these questions it will be necessary for us to get a
+more definite and complete idea of the nature of stimulus and response.
+We have already used these terms, but we must now give a more definite
+account of them. It was said in the preceding chapter that when a muscle
+contracts, it must first receive a nerve-impulse. Now, anything which
+starts this nerve-impulse is called the stimulus. The muscular movement
+which follows is, of course, the response. The nervous system forms the
+connection between the stimulus and response.
+
+The stimulus which brings about a response may be very simple. Or, on
+the other hand, it may be very complex. If one blows upon the eyelids of
+a baby, the lids automatically close. The blowing is the stimulus and
+the closing of the lids is the response. Both stimulus and response are
+here very simple.
+
+But sometimes the stimulus is more complex, not merely the simple
+excitation of one sense organ, but a complicated stimulation of an
+organ, or the simultaneous stimulation of several organs. In playing
+ball, the stimulus for the batter is the on-coming ball. The response is
+the stroke. This case is much more complex than the reflex closing of
+the eyelids. The ball may be pitched in many different ways and the
+response changes with these variations.
+
+In piano playing, the stimulus is the notes written in their particular
+places on the staff. Not only must the position of the notes on the
+staff be taken into account, but also many other things, such as sharps
+and flats, and various characters which give directions as to the manner
+in which the music is to be played. The striking of the notes in the
+proper order, in the proper time, and with the proper force, is the
+response.
+
+In typewriting, the stimulus is the copy, or the idea of what is to be
+written, and the response is the striking of the keys in the proper
+order. Speaking generally, we may say that the stimulus is the force or
+forces which excite the sense organs, and thereby, through the nervous
+system, bring about a muscular response.
+
+This is the ordinary type of action, but we have already indicated a
+different type. In speaking of typewriting we said the stimulus might be
+either the copy or ideas. One can write from copy or dictation, in which
+the stimulus is the written or spoken word, but one can also write as
+one thinks of what one wishes to write. The latter is known as
+_centrally initiated action_. That is to say, the stimulus comes from
+within, in the brain, rather than from without.
+
+Let us explain this kind of stimulation a little further. Suppose I am
+sitting in my chair reading. I finish a chapter and look at my watch. I
+notice that it is three o'clock, and recall that I was to meet a friend
+at that time. The stimulus in this case is in the brain itself; it is
+the nervous activity which corresponds to the idea of meeting my friend.
+If we disregard the distinction between mind and body, we may say that
+the stimulus for a response may be an idea as well as a perception, the
+perception arising from the immediate stimulation of a sense organ, and
+the idea arising from an excitation of the brain not caused by an
+immediate stimulation of a sense organ.
+
+=Instincts and Habits.= In human action it is evident that there is always
+a stimulus to start the nerve-impulse which causes the action. If we
+make inquiry concerning the connection between the stimulus and
+response; if we ask how it has come about that a particular stimulus
+causes a particular response rather than some other possible response,
+we find two kinds of causes. In one case the causal connection is
+established through heredity; in the other, the causal connection is
+established during a person's lifetime through training.
+
+A chicken, for example, hides under some cover the first time it hears
+the cry of a hawk; it scratches the first time its feet touch sand or
+gravel; it pecks the first time it sees an insect near by. An infant
+closes its eyes the first time it feels cold wind blow upon them; it
+cries the first time it feels pain; it clasps its fingers together the
+first time a touch is felt inside them. The child's nervous system is so
+organized that, in each of the cases named, the stimulus brings forth
+the particular, definite response. These acts do not have to be
+learned.
+
+But it is quite different in typewriting and piano playing. One _must
+learn_ what keys on the piano to strike in response to the various
+situations of the notes as written in the music. One must also learn the
+keys on the typewriter before he can operate a typewriter. And in the
+case of other habits, we find, for example, that one does not respond by
+saying "81" for 9 times 9; nor "13" for 6 plus 7; nor "8" for 15 minus
+7; nor "8" for the square root of 64; nor "144" for the square of 12,
+etc., until one has learned in each case.
+
+Some connections between stimulus and response we have through
+inheritance; all others are built up and established in one's lifetime,
+particularly in the first thirty years of one's life.
+
+We have spoken of bonds between stimulus and response, but have not
+explained just what can be meant by a _bond_. In what sense are stimulus
+and response bound together? A bond is a matter of greater permeability,
+of less resistance in one direction through the nervous system than in
+other directions. Nerves are conductors for nerve-currents. When a
+nerve-current is started in a sense organ, it passes on through the path
+of least resistance.
+
+Now, some nerves are so organized and connected through inheritance as
+to offer small resistance. This forms a ready-made connection between
+stimulus and response. Muscular responses that are connected with their
+stimuli through inherited bonds, by inherited nerve structure, are
+called instincts. Those that are connected by acquired bonds are called
+habits. Sucking, crying, laughing, are instinctive acts. Adding,
+typewriting, piano playing, are habits.
+
+The term _instinct_ may be given to the act depending upon inherited
+structure, an inherited bond, or it may be given to the inherited bond
+itself. Similarly, the term _habit_ may be given to an act that we have
+had to learn or to the bond which we ourselves establish between
+response and stimulus. In this book we shall usually mean by instinct an
+action depending upon inherited structure and by habit an act depending
+upon a bond established during lifetime. A good part of our early lives
+is spent in building up bonds between stimuli and responses. This
+establishing of bonds or connections is called _learning_.
+
+=Appearance of Inherited Tendencies.= Not all of our inherited tendencies
+are manifested immediately after birth, nor indeed in the earliest years
+of childhood, but appear at different stages of the child's growth. It
+has already been said that a child, soon after birth, will close its
+eyelids when they are blown upon. The lids do not close at this time if
+one strikes at them, but they will do this later. The proper working of
+an instinct or an inherited tendency, then, depends upon the child's
+having reached a certain state of development.
+
+The maturing of an instinct depends upon both age and use, that is to
+say, upon the age of the animal and the amount of use or exercise that
+the instinctive activity has had. The most important factor, however,
+seems to be age. While our knowledge of the dependence of an instinct
+upon the age of the animal is not quite so definite in the case of human
+instincts, the matter has been worked out in the case of chickens.
+
+The experiment was as follows: Chickens were taken at the time of
+hatching, and some allowed to peck from the first, while others were
+kept in a dark room and not allowed to peck. When the chickens were
+taken out of the dark room at the end of one, two, three, and four days,
+it was found that in a few hours they were pecking as well as those
+that had been pecking from birth. It seems probable, if we may judge
+from our limited knowledge, that in the human child, activities are for
+the most part dependent upon the age of the child, and upon the state of
+development of the nervous system and of the organs of the body.
+
+=Significance of Inherited Tendencies.= Although human nature is very
+complex, although human action nearly always has some element of habit
+in it, nevertheless, inborn tendencies are throughout life powerful
+factors in determining action. This will at once be apparent if we
+consider how greatly we are influenced by anger, jealousy, love, fear,
+and competition. Now we do not have to learn to be jealous, to hate, to
+love, to be envious, to fight, or to fear. These are emotions common to
+all members of the human race, and their expression is an inborn
+tendency. Throughout life no other influences are so powerful in
+determining our action as are these. So, although most of our detailed
+actions in life are habits which we learn or acquire, the fundamental
+influences which decide the course of our action are inherited
+tendencies.
+
+=Classification of Instincts.= For convenience in treatment the instincts
+are grouped in classes. Those instincts most closely related to
+individual survival are called _individualistic_ instincts. Those more
+closely related to the survival of the group are called _socialistic_.
+Those individualistic tendencies growing out of periodic changes of the
+environment may be called _environmental_ instincts. Those closely
+related to human infancy, adapting and adjusting the child to the world
+in which he lives, may be called _adaptive_. There is still another
+group of inherited tendencies connected with sex and reproduction, which
+are not discussed in this book.
+
+We shall give a brief discussion of the instincts falling under these
+various classes. It must be remembered, however, that the psychology of
+the instincts is indefinite and obscure. It is difficult to bring the
+instincts into the laboratory for accurate study. For our knowledge of
+the instincts we are dependent, for the most part, on general
+observation. We have had a few careful studies of the very earliest
+years of childhood. However, although from the theoretical point of view
+our knowledge of the instincts is incomplete, it is sufficient to be of
+considerable practical value.
+
+=The Individualistic Instincts.= Man's civilized life has covered but a
+short period of time, only a few hundred or a few thousand years. His
+pre-civilized life doubtless covered a period of millions of years. The
+inborn tendencies in us are such as were developed in the long period of
+savage life. During all of man's life in the time before civilization,
+he was always in danger. He had many enemies, and most of these enemies
+had the advantage of him in strength and natural means of defense.
+Unaided by weapons, he could hardly hold his own against any of the
+beasts of prey. So there were developed in man by the process of natural
+selection many inherited responses which we group under the head of
+_fear
